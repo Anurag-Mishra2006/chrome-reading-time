@@ -13,14 +13,7 @@ This lightweight Chrome extension displays the estimated reading time and word c
 - ✅ **No data collection**, 100% privacy-safe.
 - ✅ Lightweight and simple to use.
 
----
 
-## 🖥️ Demo
-
-![Demo Screenshot](![image](https://github.com/user-attachments/assets/5edb90b0-eeeb-476e-be1d-51b7a611effc)
-) <!-- Add your own screenshot file -->
-
----
 
 ## 🔥 How to Install (Manual Installation)
 
