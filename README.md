@@ -44,16 +44,7 @@ This lightweight Chrome extension displays the estimated reading time and word c
    - ⏱️ Estimated reading time (in minutes)  
    - 📖 Total word count
 
----
 
-## 🛠️ Tech Stack
-
-- HTML  
-- CSS  
-- JavaScript  
-- Chrome Extension APIs (Manifest V3)
-
----
 
 ## 🔐 Privacy
 
